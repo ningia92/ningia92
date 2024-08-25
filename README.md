@@ -1,11 +1,11 @@
-## Hi there 🤓
+## Hi there, I'm Gian Marco 🤓
 
 <!--
 **ningia92/ningia92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 👨‍💻 I'm a Computer Scientist in Lecce, Italy
-- 🌱 I’m currently learning Full Stack Web Dev
+- 🌱 I’m currently learning Full Stack Web Development
 - 🐧 Linux lovers
 - 🕵️‍♂️ Interested in Web App Penetration Testing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gian-marco-ninno-37b26b283/)
