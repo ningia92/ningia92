@@ -4,7 +4,7 @@
 **ningia92/ningia92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍💻 I'm a Computer Scientist
+- 👨‍💻 I'm a Computer Scientist in Lecce, Italy
 - 🌱 I’m currently learning Full Stack Web Dev
 - 🐧 Linux lovers
 - 🕵️‍♂️ Interested in Web App Penetration Testing
