@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 🐧 Linux lovers
 - 🕵️‍♂️ Interested in Web App Penetration Testing
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gian-marco-ninno-37b26b283/)
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/ningia)
   
 -------------------------------------------------------
 
