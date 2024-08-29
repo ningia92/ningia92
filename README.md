@@ -5,7 +5,7 @@
 -->
 
 - 👨‍💻 I'm a Computer Scientist in Lecce, Italy
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development with JavaScript
 - 🐧 Linux lover
 - 🕵️‍♂️ Interested in Web App Penetration Testing
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ningia)
