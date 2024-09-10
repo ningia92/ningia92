@@ -1,4 +1,4 @@
-## Hi there, I'm Gian Marco 🤓
+## Hi there, I'm Gian Marco
 
 <!--
 **ningia92/ningia92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
